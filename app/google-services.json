@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "916300921188",
+    "firebase_url": "https://face-detection-c3e0c.firebaseio.com",
+    "project_id": "face-detection-c3e0c",
+    "storage_bucket": "face-detection-c3e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916300921188:android:748d7e22e3ca27ec",
+        "android_client_info": {
+          "package_name": "com.atulbahniwal.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916300921188-88h2phutc274tjvjis0e7o7htec1ln26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atulbahniwal.application",
+            "certificate_hash": "188a690ddaa400c8ed161e34f2342bb12122ca13"
+          }
+        },
+        {
+          "client_id": "916300921188-cpcv9tdoehejrfm3jam41adscoveub30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFa0hON4rB1n8_orvNwXqN6-wiPU73GJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916300921188-cpcv9tdoehejrfm3jam41adscoveub30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916300921188:android:0324e94b1202bc3f",
+        "android_client_info": {
+          "package_name": "com.atulbahniwal.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916300921188-otr5copv7b317j5n0skapclhd3gau4ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atulbahniwal.facerecognition",
+            "certificate_hash": "188a690ddaa400c8ed161e34f2342bb12122ca13"
+          }
+        },
+        {
+          "client_id": "916300921188-cpcv9tdoehejrfm3jam41adscoveub30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFa0hON4rB1n8_orvNwXqN6-wiPU73GJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916300921188-cpcv9tdoehejrfm3jam41adscoveub30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916300921188:android:a75da81d910f4d30",
+        "android_client_info": {
+          "package_name": "com.atulbahniwal.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916300921188-53s3u2pnmo86rkcs0q1528p4ctejqqv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atulbahniwal.journalapp",
+            "certificate_hash": "188a690ddaa400c8ed161e34f2342bb12122ca13"
+          }
+        },
+        {
+          "client_id": "916300921188-cpcv9tdoehejrfm3jam41adscoveub30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFa0hON4rB1n8_orvNwXqN6-wiPU73GJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916300921188-cpcv9tdoehejrfm3jam41adscoveub30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
